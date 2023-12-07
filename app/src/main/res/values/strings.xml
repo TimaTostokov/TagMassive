@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TagMassive</string>
+    <string name="ic_send">send</string>
+    <string name="write_smth">write</string>
+    <string name="tag">Massive</string>
+    <string name="compilate">Compilate</string>
+</resources>
